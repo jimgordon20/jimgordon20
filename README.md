@@ -10,4 +10,4 @@ https://ko-fi.com/jimgordon1994
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jimgordon20-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
