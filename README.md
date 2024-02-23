@@ -5,7 +5,7 @@ youtube
 https://www.youtube.com/channel/UC4DTaNF-ovKVpWAfsByXyoA
 
 support me or just say a thank you
-[https://ko-fi.com/jimgordon1994](https://paypal.me/jimgordon1994)
+https://paypal.me/jimgordon1994
 
 
 
