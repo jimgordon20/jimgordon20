@@ -1,3 +1,6 @@
+[ Jim G discord ]
+https://discord.gg/6QUTHVA3VP
+
 Cfx.re
 https://forum.cfx.re/u/jim_gordon_9623/summary
 
