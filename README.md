@@ -8,7 +8,7 @@ youtube
 https://www.youtube.com/channel/UC4DTaNF-ovKVpWAfsByXyoA
 
 support me or just say a thank you
-https://paypal.me/jimgordon1994
+[https://paypal.me/jimgordon1994](https://www.paypal.com/donate/?hosted_button_id=M9UBVC2879TLY)
 
 
 
