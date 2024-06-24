@@ -13,4 +13,4 @@ support me or just say a thank you
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Jim-G's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimgordon20_icons=true&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
