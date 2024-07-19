@@ -7,4 +7,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimgordon20&theme=neon&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+${your.username}.${your.repo.id}.issue.${issue.id}, https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge.issue.1
