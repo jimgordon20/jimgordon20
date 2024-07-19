@@ -3,7 +3,7 @@
 - <a href="https://discord.gg/6QUTHVA3VP" target="_blank"> DISCORD
 - <a href="https://forum.cfx.re/u/jim_gordon_9623/summary" target="_blank"> CFX PAGE
 - <a href="https://www.youtube.com/channel/UC4DTaNF-ovKVpWAfsByXyoA" target="_blank"> YOUTUBE PAGE
-- <a href="[https://paypal.me/jimgordon1994](https://www.paypal.com/donate/?hosted_button_id=M9UBVC2879TLY](https://shorturl.at/Rf9Fj)" target="_blank"> SUPPORT ME OR SAY THANK YOU PAGE
+- <a href="https://paypal.me/jimgordon1994](https://www.paypal.com/donate/?hosted_button_id=M9UBVC2879TLY](https://shorturl.at/Rf9Fj" target="_blank"> SUPPORT ME OR SAY THANK YOU PAGE
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimgordon20&theme=neon&show_icons=true)
 
