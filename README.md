@@ -6,3 +6,5 @@
 - <a href="https://paypal.me/jimgordon1994](https://www.paypal.com/donate/?hosted_button_id=M9UBVC2879TLY" target="_blank"> SUPPORT ME OR SAY THANK YOU PAGE
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimgordon20&theme=neon&show_icons=true)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
