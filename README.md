@@ -5,7 +5,14 @@
 - <a href="https://www.youtube.com/channel/UC4DTaNF-ovKVpWAfsByXyoA" target="_blank"> YOUTUBE PAGE
 - <a href="https://paypal.me/jimgordon1994" target="_blank"> SUPPORT ME OR SAY THANK YOU PAGE
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimgordon20&theme=neon&show_icons=true)
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-jimgordon20.vercel.app/?user=jimgordon20&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-jimgordon20.vercel.app/api?username=jimgordon20&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-jimgordon20.vercel.app/api/top-langs/?username=jimgordon20&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
 <h2 align="center">⚒️ Languages-and-Frameworks-Tools-I-Use ⚒️</h2>
 <br/>
