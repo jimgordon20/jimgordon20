@@ -32,3 +32,5 @@
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
+
+[![](https://visitcount.itsvg.in/api?id=jimgordon1994&label=Profile%20Views&color=11&icon=0&pretty=false)](https://visitcount.itsvg.in)
