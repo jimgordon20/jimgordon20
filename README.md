@@ -26,6 +26,15 @@
 
 <br/>
 
+# 🏆GitHub Trophies
+
+<div align="center"><br>
+<a href="https://github-trophies.vercel.app/?username=jimgordon20" target="_blank">
+  <img src="https://github-trophies.vercel.app/?username=jimgordon20&theme=radical&no-frame=true&no-bg=true&margin-w=4">
+</a>
+</div>
+<br><br>
+
 <h2 align="center">⚒️ Languages-and-Frameworks-Tools-I-Use ⚒️</h2>
 <br/>
 <div align="center">
