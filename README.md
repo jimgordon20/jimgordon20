@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=6000&pause=1000&color=9600F7&background=0010FF00&random=false&width=435&lines=JIM+GORDON+THE+ONE+AND+ONLY;Jim-G)](https://git.io/typing-svg)
+//[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=6000&pause=1000&color=9600F7&background=0010FF00&random=false&width=435&lines=JIM+GORDON+THE+ONE+AND+ONLY;Jim-G)](https://git.io/typing-svg)
 
 ![jim_g_i_just_do_stuff](https://github.com/user-attachments/assets/56d95ca1-1a41-4b50-a335-e235bef91dbc)
 
