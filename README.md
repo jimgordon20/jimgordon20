@@ -1,8 +1,6 @@
-//[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=6000&pause=1000&color=9600F7&background=0010FF00&random=false&width=435&lines=JIM+GORDON+THE+ONE+AND+ONLY;Jim-G)](https://git.io/typing-svg)
+![jim_g_i_just_do_stuff](https://github.com/user-attachments/assets/9850e532-d5ea-4ace-a065-72ae124e0ab2)
 
-![jim_g_i_just_do_stuff](https://github.com/user-attachments/assets/56d95ca1-1a41-4b50-a335-e235bef91dbc)
-
-
+<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=6000&pause=1000&color=9600F7&background=0010FF00&random=false&width=435&lines=JIM+GORDON+THE+ONE+AND+ONLY;Jim-G)](https://git.io/typing-svg)-->
 - <a href="https://discord.gg/6QUTHVA3VP" target="_blank"> DISCORD
 - <a href="https://forum.cfx.re/u/jim_gordon_9623/summary" target="_blank"> CFX PAGE
 - <a href="https://www.youtube.com/channel/UC4DTaNF-ovKVpWAfsByXyoA" target="_blank"> YOUTUBE PAGE
