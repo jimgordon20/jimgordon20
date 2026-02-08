@@ -19,7 +19,7 @@ Whether it's complex backend scripting or custom environmental assets, I build t
 * 🛠️ **FiveM Scripting:** Expert in Lua, optimizing server-side performance, and custom UI.
 * 📦 **3D Modeling:** Crafting custom props, MLOs, and assets for GTA V.
 * 💻 **Full Stack:** Experienced in React and Node.js for web-based game integrations.
-* 🎯 **Goal:** Pushing the limits of what's possible within the CFX framework.
+* 🎯 **Goal:** Pushing the limits of what's possible within the Fivem.
 
 ---
 
