@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://jimgwebsite.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
+    <img src="https://img.shields.io/badge/Website-9600F7?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
   <a href="https://discord.gg/6QUTHVA3VP" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
