@@ -3,11 +3,24 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=9600F7&center=true&vCenter=true&width=600&lines=JIM+GORDON;The+FiveM+Specialist;3D+Modeler+%26+Scripter)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://discord.gg/6QUTHVA3VP"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href="https://jim-g.tebex.io/"><img src="https://img.shields.io/badge/Tebex_Store-00AEEF?style=for-the-badge&logo=shopify&logoColor=white" target="_blank"></a>
-  <a href="https://forum.cfx.re/u/jim_gordon_9623/summary"><img src="https://img.shields.io/badge/CFX.re-E5652E?style=for-the-badge&logo=fivem&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/channel/UC4DTaNF-ovKVpWAfsByXyoA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://paypal.me/jimgordon1994"><img src="https://img.shields.io/badge/Support-00457C?style=for-the-badge&logo=paypal&logoColor=white" target="_blank"></a>
+  <a href="https://jimgwebsite.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
+  <a href="https://discord.gg/6QUTHVA3VP" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="https://jim-g.tebex.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Tebex_Store-00AEEF?style=for-the-badge&logo=shopify&logoColor=white">
+  </a>
+  <a href="https://forum.cfx.re/u/jim_gordon_9623/summary" target="_blank">
+    <img src="https://img.shields.io/badge/CFX.re-E5652E?style=for-the-badge&logo=fivem&logoColor=white">
+  </a>
+  <a href="https://www.youtube.com/channel/UC4DTaNF-ovKVpWAfsByXyoA" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <a href="https://paypal.me/jimgordon1994" target="_blank">
+    <img src="https://img.shields.io/badge/Support-00457C?style=for-the-badge&logo=paypal&logoColor=white">
+  </a>
 </p>
 
 ---
