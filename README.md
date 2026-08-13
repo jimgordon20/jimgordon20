@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=9600F7&center=true&vCenter=true&width=600&lines=JIM+GORDON;The+FiveM+Specialist;3D+Modeler+%26+Scripter)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://jimgwebsite.vercel.app" target="_blank">
+  <a href="https://jim-g.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-9600F7?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
   <a href="https://discord.gg/6QUTHVA3VP" target="_blank">
