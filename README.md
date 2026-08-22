@@ -90,8 +90,8 @@ Not a template dump. Store, Discord login, Card Creator, game mats, docs, and a 
 
 ### GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=jimgordon20&show_icons=true&include_all_commits=true&count_private=true&bg_color=050505&title_color=3dd6c6&icon_color=0099cc&text_color=c8c8ce&border_color=1c1c1f&ring_color=3dd6c6" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimgordon20&layout=compact&langs_count=6&hide=html&bg_color=050505&title_color=3dd6c6&text_color=c8c8ce&border_color=1c1c1f" alt="Top languages" height="165" />
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=jimgordon20&show_icons=true&include_all_commits=true&bg_color=050505&title_color=3dd6c6&icon_color=0099cc&text_color=c8c8ce&border_color=1c1c1f" alt="GitHub stats" height="165" />
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=jimgordon20&layout=compact&langs_count=6&hide=html&bg_color=050505&title_color=3dd6c6&text_color=c8c8ce&border_color=1c1c1f" alt="Top languages" height="165" />
 
 <br/>
 
@@ -99,7 +99,7 @@ Not a template dump. Store, Discord login, Card Creator, game mats, docs, and a 
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=jimgordon20&theme=dark&background=050505&ring=3dd6c6&fire=0099cc&currStreakLabel=3dd6c6&sideLabels=c8c8ce&dates=71717a&currStreakNum=f4f4f5&sideNums=c8c8ce&stroke=1c1c1f&border=1c1c1f" alt="GitHub streak" />
+<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=jimgordon20&background=050505&ring=3dd6c6&fire=0099cc&currStreakLabel=3dd6c6&sideLabels=c8c8ce&dates=71717a&currStreakNum=f4f4f5&sideNums=c8c8ce&stroke=1c1c1f&border=1c1c1f" alt="GitHub streak" />
 
 ---
 
@@ -113,7 +113,7 @@ Not a template dump. Store, Discord login, Card Creator, game mats, docs, and a 
 <br/>
 
 <a href="https://jim-g.com">
-  <img src="./assets/header.svg" alt="Jim G — jim-g.com" width="100%" />
+  <img src="./assets/header.png" alt="Jim G — jim-g.com" width="100%" />
 </a>
 
 </div>
