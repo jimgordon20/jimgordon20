@@ -8,21 +8,35 @@
 
 <br/>
 
-<a href="https://jim-g.com">
-  <img src="https://img.shields.io/website?url=https%3A%2F%2Fjim-g.com&style=for-the-badge&label=jim-g.com&up_message=online&up_color=3dd6c6&down_color=f31260" alt="Website" />
-</a>
-<a href="https://discord.gg/6QUTHVA3VP">
-  <img src="https://img.shields.io/discord/1216076030272471070?style=for-the-badge&logo=discord&logoColor=white&color=5865F2&label=Discord" alt="Discord" />
-</a>
-<a href="https://jim-g.tebex.io">
-  <img src="https://img.shields.io/badge/Tebex_Store-0099cc?style=for-the-badge&logo=shopify&logoColor=white" alt="Tebex" />
-</a>
-<a href="https://www.youtube.com/channel/UC4DTaNF-ovKVpWAfsByXyoA">
-  <img src="https://img.shields.io/youtube/channel/subscribers/UC4DTaNF-ovKVpWAfsByXyoA?style=for-the-badge&logo=youtube&logoColor=white&color=FF0000&label=YouTube" alt="YouTube" />
-</a>
-<a href="https://forum.cfx.re/u/jim_gordon_9623/summary">
-  <img src="https://img.shields.io/badge/CFX.re-E5652E?style=for-the-badge&logo=fivem&logoColor=white" alt="CFX" />
-</a>
+<table>
+  <tr>
+    <td>
+      <a href="https://jim-g.com">
+        <img src="https://img.shields.io/badge/Website-jim--g.com-3dd6c6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+      </a>
+    </td>
+    <td>
+      <a href="https://discord.gg/6QUTHVA3VP">
+        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Fv10%2Finvites%2F6QUTHVA3VP%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&suffix=%20members&label=Discord&logo=discord&logoColor=white&color=5865F2&style=for-the-badge" alt="Discord members" />
+      </a>
+    </td>
+    <td>
+      <a href="https://jim-g.tebex.io">
+        <img src="https://img.shields.io/badge/Store-Tebex-0099cc?style=for-the-badge&logo=shopify&logoColor=white" alt="Tebex Store" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/channel/UC4DTaNF-ovKVpWAfsByXyoA">
+        <img src="https://img.shields.io/badge/YouTube-Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+      </a>
+    </td>
+    <td>
+      <a href="https://forum.cfx.re/u/jim_gordon_9623/summary">
+        <img src="https://img.shields.io/badge/CFX.re-Forum-E5652E?style=for-the-badge&logo=fivem&logoColor=white" alt="CFX.re" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
