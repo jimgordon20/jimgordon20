@@ -77,6 +77,12 @@ Not a template dump. Store, Discord login, Card Creator, game mats, docs, and a 
 
 <br/>
 
+<a href="https://discord.gg/6QUTHVA3VP">
+  <img src="https://discord.com/api/guilds/1216076030272471070/widget.png?style=banner4" alt="Jim G Discord" />
+</a>
+
+<br/>
+
 ### What I ship
 
 | Area | What you get |
@@ -114,6 +120,10 @@ Not a template dump. Store, Discord login, Card Creator, game mats, docs, and a 
 <br/>
 
 <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=jimgordon20&background=050505&ring=3dd6c6&fire=0099cc&currStreakLabel=3dd6c6&sideLabels=c8c8ce&dates=71717a&currStreakNum=f4f4f5&sideNums=c8c8ce&stroke=1c1c1f&border=1c1c1f" alt="GitHub streak" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/jimgordon20/jimgordon20/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%" />
 
 ---
 
